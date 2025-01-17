@@ -36,5 +36,5 @@ A platform developed to enable users to create, manage, and analyze surveys, wit
 ![Forms](screenshots/Forms.png)
 
 ### Statistics
-![Statistics](screenshots/statistics.png)
+![Statistics](screenshots/Statistics.png)
 
