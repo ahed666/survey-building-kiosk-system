@@ -1,21 +1,41 @@
-## Survey Building and Kiosk System
-A platform developed to enable users to create, manage, and analyze surveys, with integrated kiosk functionality and real-time data visualization.
+# 📊 Formshub – Survey Management & Kiosk Platform
 
-### My Contributions
-- Designed and implemented a backend system using Laravel to manage surveys and user data.
-- Developed a user-friendly frontend interface using Vue.js.
-- Integrated kiosk devices for survey display and response collection.
-- Built real-time data visualization features using Chart.js/D3.js.
+**Formshub** is a web-based platform designed to create, manage, and analyze surveys efficiently. It also supports **kiosk mode** for public data collection and provides **real-time analytics and visualizations**.
 
 
-### Technologies
-- Backend: Laravel, MySQL
-- Frontend: Vue.js, Tailwind CSS
-- Tools: Docker, RESTful APIs
+## 🚀 Features
 
-### Key Achievements
-- Improved survey response rates by 30% through optimized user experience.
-- Reduced data processing time by 40% with efficient database queries and caching.
+- 🔧 Create and edit dynamic surveys
+- 🧑‍💼 Multi-user management with access control
+- 🖥️ Kiosk mode for survey display and interaction
+- 📈 Real-time statistics and chart visualizations (Chart.js)
+- 📦 RESTful API integration
+- ⚙️ Admin dashboard with full CRUD operations
+
+## 👨‍💻 My Contributions
+
+- ✅ Built the **backend system** with Laravel (authentication, CRUD, API endpoints)
+- ✅ Developed the **frontend** in Vue.js with Tailwind CSS for responsive design
+- ✅ Integrated **kiosk devices** for public survey submissions
+- ✅ Implemented **real-time charting** for analytics using Chart.js
+- ✅ Optimized database queries and caching to improve performance
+
+
+## 🛠️ Tech Stack
+
+| Layer        | Tech                      |
+|--------------|---------------------------|
+| Backend      | Laravel 10, MySQL         |
+| Frontend     | Vue.js 3, Tailwind CSS    |
+| Visualization| Chart.js                  |
+| Tools        | RESTful APIs, Git         |
+
+
+## 🏆 Key Achievements
+
+- 📊 Increased survey response rate by **+30%** via optimized UX
+- ⚡ Reduced data processing time by **-40%** with query optimization
+- 🔐 Secured device access and response integrity in kiosk mode
 
 
 ## Screenshots
