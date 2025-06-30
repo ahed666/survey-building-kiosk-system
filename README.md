@@ -37,6 +37,10 @@
 - ⚡ Reduced data processing time by **-40%** with query optimization
 - 🔐 Secured device access and response integrity in kiosk mode
 
+### Note
+> 🚫 The source code is not public due to client privacy.  
+> I’m happy to demonstrate the project via a live session or explain the architecture in detail during an interview.
+
 
 ## Screenshots
 
